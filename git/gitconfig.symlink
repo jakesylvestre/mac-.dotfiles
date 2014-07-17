@@ -4,7 +4,7 @@
 [hub]
         protocol = https
 [user]
-        name = jakesyl
+        name = Jakesyl
         email = jakesyl@gmail.com
 [credential]
         helper = osxkeychain
@@ -36,6 +36,3 @@
         #
         # Setting to git 2.0 default to surpress warning message
         default = simple
-[filter "media"]
-	clean = git-media-clean %f
-	smudge = git-media-smudge %f
