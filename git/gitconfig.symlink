@@ -4,7 +4,7 @@
 [hub]
         protocol = https
 [user]
-        name = Jakesyl
+        name = jakesyl
         email = jakesyl@gmail.com
 [credential]
         helper = osxkeychain
